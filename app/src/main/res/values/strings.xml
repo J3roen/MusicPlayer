@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My first music player</string>
+    <string name="home">home</string>
+    <string name="nowPlaying">now playing</string>
+    <string name="albumList">album list</string>
+    <string name="songTitle">%s by %s</string>
+    <string name="playNowButton">Play now</string>
+    <string name="playSongConfirmation">Your song is now playing</string>
+    <string name="alreadyPlaying">This song is currently playing</string>
+    <string name="noSongPlaying">There is no song playing now</string>
+</resources>
